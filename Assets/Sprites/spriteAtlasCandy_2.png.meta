@@ -1,0 +1,960 @@
+fileFormatVersion: 2
+guid: 5294bb37fa9333d47b1353b21412baf4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3482393933637674029
+    second: spriteAtlasCandy_2_0
+  - first:
+      213: -8303220174876431370
+    second: spriteAtlasCandy_2_1
+  - first:
+      213: -6986425523161253208
+    second: spriteAtlasCandy_2_2
+  - first:
+      213: 6374534730104651536
+    second: spriteAtlasCandy_2_3
+  - first:
+      213: -7856118293092506008
+    second: spriteAtlasCandy_2_4
+  - first:
+      213: -6259089116407647536
+    second: spriteAtlasCandy_2_5
+  - first:
+      213: 2743212205222061104
+    second: spriteAtlasCandy_2_6
+  - first:
+      213: -7112132756604250244
+    second: spriteAtlasCandy_2_7
+  - first:
+      213: -8896679512169468928
+    second: spriteAtlasCandy_2_8
+  - first:
+      213: -4010881321673097744
+    second: spriteAtlasCandy_2_9
+  - first:
+      213: -467056688232159217
+    second: spriteAtlasCandy_2_10
+  - first:
+      213: 3284509214543569720
+    second: spriteAtlasCandy_2_11
+  - first:
+      213: 8636297929016899830
+    second: spriteAtlasCandy_2_12
+  - first:
+      213: 1800733090696829134
+    second: spriteAtlasCandy_2_13
+  - first:
+      213: -6498709274377514505
+    second: spriteAtlasCandy_2_14
+  - first:
+      213: -2593025284910388055
+    second: spriteAtlasCandy_2_15
+  - first:
+      213: -8552781264704220114
+    second: spriteAtlasCandy_2_16
+  - first:
+      213: -2791736745127424673
+    second: spriteAtlasCandy_2_17
+  - first:
+      213: -7875669112936699635
+    second: spriteAtlasCandy_2_18
+  - first:
+      213: 622172842837691561
+    second: spriteAtlasCandy_2_19
+  - first:
+      213: 3705034197313159340
+    second: spriteAtlasCandy_2_20
+  - first:
+      213: -526964493515670072
+    second: spriteAtlasCandy_2_21
+  - first:
+      213: 3188865551616779433
+    second: spriteAtlasCandy_2_22
+  - first:
+      213: 7853018607235101331
+    second: spriteAtlasCandy_2_23
+  - first:
+      213: -7634133896724640773
+    second: spriteAtlasCandy_2_24
+  - first:
+      213: 8408557216127243045
+    second: spriteAtlasCandy_2_25
+  - first:
+      213: -1617813218896896673
+    second: spriteAtlasCandy_2_26
+  - first:
+      213: -8510586038637693281
+    second: spriteAtlasCandy_2_27
+  - first:
+      213: -514221793683429937
+    second: spriteAtlasCandy_2_28
+  - first:
+      213: -6610578129178484451
+    second: spriteAtlasCandy_2_29
+  - first:
+      213: -3496437303438347645
+    second: spriteAtlasCandy_2_30
+  - first:
+      213: -5203506558815735961
+    second: spriteAtlasCandy_2_31
+  - first:
+      213: 9157389690764593093
+    second: spriteAtlasCandy_2_32
+  - first:
+      213: -1850896590913009907
+    second: spriteAtlasCandy_2_33
+  - first:
+      213: 3060348010637015886
+    second: spriteAtlasCandy_2_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24e27605d2f35030800000000000000
+      internalID: 3482393933637674029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 864
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb22a84e3905cc80800000000000000
+      internalID: -8303220174876431370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_2
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 864
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa304a900b3b0f90800000000000000
+      internalID: -6986425523161253208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_3
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 864
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f37443095e67850800000000000000
+      internalID: 6374534730104651536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_4
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 864
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866e5c2390679f290800000000000000
+      internalID: -7856118293092506008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_5
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 864
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d232075c9f3329a0800000000000000
+      internalID: -6259089116407647536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_6
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 864
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034e6cb67f8d11620800000000000000
+      internalID: 2743212205222061104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c771f2780f0ac4d90800000000000000
+      internalID: -7112132756604250244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 648
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ca4acce15a88480800000000000000
+      internalID: -8896679512169468928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_9
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 648
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdfc6140bc7658c0800000000000000
+      internalID: -4010881321673097744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_10
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 648
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08a3f7aa6ea489f0800000000000000
+      internalID: -467056688232159217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_11
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 648
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833ed528abbe49d20800000000000000
+      internalID: 3284509214543569720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_12
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 648
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f87e79953b4ad770800000000000000
+      internalID: 8636297929016899830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_13
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 648
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8964e843d7df810800000000000000
+      internalID: 1800733090696829134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1113ab852ffc5a0800000000000000
+      internalID: -6498709274377514505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 432
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac6f47ed39b30cd0800000000000000
+      internalID: -2593025284910388055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_16
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 432
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2450bb11ca6e4980800000000000000
+      internalID: -8552781264704220114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_17
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 432
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d4648b832c149d0800000000000000
+      internalID: -2791736745127424673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_18
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 432
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0964ea3ba004b290800000000000000
+      internalID: -7875669112936699635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_19
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 432
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac4c3677e662a800800000000000000
+      internalID: 622172842837691561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_20
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 432
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0868be8fcea6330800000000000000
+      internalID: 3705034197313159340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd31cac598dfa8f0800000000000000
+      internalID: -526964493515670072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_22
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 216
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a42998e250214c20800000000000000
+      internalID: 3188865551616779433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_23
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 216
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392f7c2f0d68bfc60800000000000000
+      internalID: 7853018607235101331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_24
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 216
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb85f51bab1e0690800000000000000
+      internalID: -7634133896724640773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_25
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 216
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523dfc4dc3231b470800000000000000
+      internalID: 8408557216127243045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_26
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 216
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d18bee27f5c89e0800000000000000
+      internalID: -1617813218896896673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_27
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 216
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96f990c61354e980800000000000000
+      internalID: -8510586038637693281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc52cbbc00e1dd8f0800000000000000
+      internalID: -514221793683429937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_29
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11a95247328244a0800000000000000
+      internalID: -6610578129178484451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_30
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382f1252cc82a7fc0800000000000000
+      internalID: -3496437303438347645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_31
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 0
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f6f57aa5e69c7b0800000000000000
+      internalID: -5203506558815735961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_32
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 0
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c709d3e765951f70800000000000000
+      internalID: 9157389690764593093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_33
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 0
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0706a66b5b4056e0800000000000000
+      internalID: -1850896590913009907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAtlasCandy_2_34
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 0
+        width: 274
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bb71f1d4a887a20800000000000000
+      internalID: 3060348010637015886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
